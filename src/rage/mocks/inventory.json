@@ -1,0 +1,10 @@
+{
+    "silosType": {
+
+    },
+    "chapterType": {
+        "type": "chapterType",
+        "capacity": { "x": 6, "y": 17 }
+    },
+    "carType": {}
+}

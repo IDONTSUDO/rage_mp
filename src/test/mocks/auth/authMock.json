@@ -1,0 +1,15 @@
+{
+    "args": {
+        "player": {
+            "socialClub": "1231"
+        }
+    },
+    "Auth_req": {
+        "email": "test@test.com",
+        "password": "test123"
+    },
+    "new_Chapter_Req": {
+        "name": "Testings",
+        "appereance": "[]"
+    }
+}
